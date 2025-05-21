@@ -65,6 +65,6 @@ Mỗi thay đổi và phát triển trong dự án này đều được liên k�
 * `#2`: Viết hàm calculateValidAverage()
 * `#3`: Viết test cho 2 hàm trên
 * `#4`: Viết tài liệu README.md
-
+**
 ---
 *Ngo Tuan Anh - [Ngày cập nhật gần nhất: 21/05/2025]*
